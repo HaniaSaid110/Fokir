@@ -3,6 +3,9 @@
 ### Overview
 Fokir - personal portfolio is a bootstrap-based project which is developed using a variety of bootstrap's customisable components.
 
+### Live Demo
+https://haniasaid110.github.io/Fokir/
+
 ### Tools used in this project:
 
 #### 1. HTML:
